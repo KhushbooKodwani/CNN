@@ -1,0 +1,2 @@
+# RNN
+Using mnist dataset
